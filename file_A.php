@@ -9,3 +9,4 @@ echo 'the develop branch has been created successfully!';
 echo 'add smth to develop';
 echo 'add smth to develop2';
 echo 'add smth to develop3';
+echo 'add smth to develop4';
