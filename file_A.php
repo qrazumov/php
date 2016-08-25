@@ -11,3 +11,4 @@ echo 'add smth to develop2';
 echo 'add smth to develop3';
 echo 'add smth to develop4';
 echo 'add smth to develop5 to origin';
+echo 'add smth to develop6 to origin';
